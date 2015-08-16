@@ -1,0 +1,10 @@
+INSERT INTO ikamych.links_category (id, category) VALUES (8, 'Antisémitisme');
+INSERT INTO ikamych.links_category (id, category) VALUES (6, 'Bootstrap');
+INSERT INTO ikamych.links_category (id, category) VALUES (9, 'Handicap');
+INSERT INTO ikamych.links_category (id, category) VALUES (5, 'HTML');
+INSERT INTO ikamych.links_category (id, category) VALUES (7, 'Israel');
+INSERT INTO ikamych.links_category (id, category) VALUES (4, 'JQuery');
+INSERT INTO ikamych.links_category (id, category) VALUES (1, 'Others');
+INSERT INTO ikamych.links_category (id, category) VALUES (2, 'PHP');
+INSERT INTO ikamych.links_category (id, category) VALUES (11, 'Programming');
+INSERT INTO ikamych.links_category (id, category) VALUES (3, 'SQL');
